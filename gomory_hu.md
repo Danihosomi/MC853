@@ -66,7 +66,7 @@ struct gomory_hu
 };
 ```
 
-## Ideas
+## Applications
 
 
 ## Practice Problems
